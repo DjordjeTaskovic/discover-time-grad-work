@@ -1,61 +1,37 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Discover Time Web Application
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+**Discover Time** is a web application designed for history enthusiasts and knowledge seekers. The project is inspired by the need for a quick and easy way to learn about a wide range of history and its significance.
 
-## About Laravel
+The application is designed with a modern online learning portal look and is responsive to the device from which it is accessed, allowing users to easily follow events from their mobile phones, computers, or tablet devices.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Features
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+The content of the application is organized as a comprehensive library of historical lessons available to individuals inspired by knowledge from the past. It includes quizzes for testing what has been learned and public leaderboards for the best-performing users on the quizzes.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Technology Stack
 
-## Learning Laravel
+- **Laravel Framework:** The application is built using the open-source Laravel PHP framework, which follows the MVC (Model-View-Controller) architecture, providing separation between data, presentation, and logic layers, contributing to code organization and easy application management.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Database:** Data on the server side is stored in a MySQL database administered using the Phpmyadmin tool within the XAMPP environment.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **Front-end:** The front-end of the application is developed using programming languages such as HTML, HTML5, CSS, CSS3, JavaScript, JQuery, and AJAX. JavaScript and JQuery are used for client-side element retrieval and content validation, while AJAX is used for adding, deleting, and modifying page content.
 
-## Laravel Sponsors
+- **Galleries:** The "splide.js" library is used to display graphical content on the site, providing a modern gallery design for slides. Thanks to this tool, most slides on the page can elegantly display as many lessons as the site can offer.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- **Presentation:** The "Reveal.js" library is primarily used to present detailed lesson content. This "Reveal.js" tool is used to generate presentation-style content over the lessons, creating an immersive learning experience akin to a cinematic mode that helps users master content in an enjoyable way.
 
-### Premium Partners
+## Usage
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+To use the Discover Time web application, simply visit [website-link] and explore a wide range of historical lessons, take quizzes to test your knowledge, and see how you rank on the leaderboards.
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+We welcome contributions from the community. If you'd like to contribute to the development of Discover Time, please fork this repository, make your changes, and submit a pull request.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+We would like to acknowledge the contributions of the open-source community and the developers of the Laravel, splide.js, and Reveal.js libraries, which have made this project possible.
