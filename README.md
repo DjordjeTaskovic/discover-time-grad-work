@@ -4,10 +4,10 @@
 
 The application is designed with a modern online learning portal look and is responsive to the device from which it is accessed, allowing users to easily follow events from their mobile phones, computers, or tablet devices.
 ## Images
-<img src="readme-images/home_page.png" width="25%" height="25%"></img>
-<img src="readme-images/about_page.png" width="25%"></img>
-<img src="readme-images/lectures_page.png" width="25%"></img>
-<img src="readme-images/quizes_page.png" width="25%"></img>
+<img src="readme-images/home_page.png" width="15%"></img>
+<img src="readme-images/about_page.png" width="15%"></img>
+<img src="readme-images/lectures_page.png" width="15%"></img>
+<img src="readme-images/quizzes_page.png" width="15%"></img>
 
 ## Features
 
