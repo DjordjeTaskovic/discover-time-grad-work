@@ -1,0 +1,70 @@
+Jhon Spencer 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-07-31 15:28:49 	 User has logged-in into an account on site. 
+not-logged-in 	 no-role 	 /index.php/logout 	 127.0.0.1 	 2023-07-30 15:51:52 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-07-29 15:52:00 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-07-31 18:00:16 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-07-31 18:00:27 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-07-31 19:44:03 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-01 15:22:19 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-01 15:40:54 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-01 15:41:04 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-01 18:33:55 	 User has logged-out of an account. 
+Jhon Spencer 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-02 10:37:22 	 User has logged-in into an account on site. 
+Jhon Spencer 	 regular_user 	 /index.php/ajax_quiz 	 127.0.0.1 	 2023-08-02 12:38:01 	 A user has completed a quiz on the site. 
+Jhon Spencer 	 regular_user 	 /index.php/ajax_quiz 	 127.0.0.1 	 2023-08-02 12:38:47 	 A user has completed a quiz on the site. 
+Jhon Spencer 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-02 14:40:13 	 User has logged-out of an account. 
+Olivia Mutson 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-02 14:40:48 	 User has logged-in into an account on site. 
+Olivia Mutson 	 regular_user 	 /index.php/ajax_quiz 	 127.0.0.1 	 2023-08-02 16:41:20 	 A user has completed a quiz on the site. 
+Olivia Mutson 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-02 15:47:43 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-08 16:40:34 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-08 17:00:51 	 User has logged-out of an account. 
+Olivia Mutson 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-08 17:01:03 	 User has logged-in into an account on site. 
+Olivia Mutson 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-08 17:10:22 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-08 17:10:32 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-09 08:46:55 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/u_sub_remove/3 	 127.0.0.1 	 2023-08-09 08:56:31 	 A user has removed a subscription. 
+Beluga 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-09 09:09:53 	 User has logged-out of an account. 
+Jhon Spencer 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-09 09:10:04 	 User has logged-in into an account on site. 
+Jhon Spencer 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-09 11:09:54 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-09 11:10:00 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-09 13:02:12 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-09 14:16:16 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-09 15:27:53 	 User has logged-out of an account. 
+Jhon Spencer 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-09 15:28:05 	 User has logged-in into an account on site. 
+Jhon Spencer 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-09 15:32:03 	 User has logged-out of an account. 
+Olivia Mutson 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-09 15:32:14 	 User has logged-in into an account on site. 
+Olivia Mutson 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-09 15:50:46 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-09 15:51:13 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-09 17:54:17 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-09 18:18:24 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-10 11:12:51 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-10 15:26:23 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-10 15:44:04 	 User has logged-in into an account on site. 
+Jhon Spencer 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-15 06:55:02 	 User has logged-in into an account on site. 
+Jhon Spencer 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 07:08:42 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-15 07:38:04 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 07:41:42 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-15 07:41:58 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/ajax_quiz 	 127.0.0.1 	 2023-08-15 09:46:06 	 A user has completed a quiz on the site. 
+Beluga 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 08:40:32 	 User has logged-out of an account. 
+not-logged-in 	 no-role 	 /index.php/register 	 127.0.0.1 	 2023-08-15 08:48:44 	 New user has been registered. 
+user 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 08:51:07 	 User has logged-out of an account. 
+user 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-15 08:51:39 	 User has logged-in into an account on site. 
+user 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 08:55:24 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-15 08:55:35 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 08:57:19 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-15 08:57:52 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 09:02:14 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-15 09:02:29 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 09:08:37 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-15 09:14:22 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-15 09:16:43 	 User has logged-out of an account. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-16 20:48:59 	 User has logged-in into an account on site. 
+Beluga 	 regular_user 	 /index.php/login 	 127.0.0.1 	 2023-08-23 09:21:27 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-26 08:35:48 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-26 13:26:35 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-26 13:27:12 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-26 14:01:36 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-27 09:31:30 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-27 09:32:45 	 User has logged-out of an account. 
+Admin 	 administrator 	 /index.php/login 	 127.0.0.1 	 2023-08-27 18:33:42 	 User has logged-in into an account on site. 
+Admin 	 administrator 	 /index.php/logout 	 127.0.0.1 	 2023-08-27 18:33:55 	 User has logged-out of an account. 
