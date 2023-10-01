@@ -3,7 +3,7 @@
 **Discover Time** is a web application designed for history enthusiasts and knowledge seekers. The project is inspired by the need for a quick and easy way to learn about a wide range of history and its significance.
 
 The application is designed with a modern online learning portal look and is responsive to the device from which it is accessed, allowing users to easily follow events from their mobile phones, computers, or tablet devices.
-## Images
+## Screenshots
 <img src="readme-images/home_page.png" width="15%"></img>
 <img src="readme-images/about_page.png" width="15%"></img>
 <img src="readme-images/lectures_page.png" width="15%"></img>
